@@ -1,0 +1,4 @@
+#Thu Apr 09 02:11:16 KST 2020
+base.0=/Users/tonylee/Tony/Android/destini-android-kwangc/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

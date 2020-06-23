@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/tonylee/Tony/Android/Xylophone-Android/app/build/intermediates/res/merged/debug/raw_note1_c.wav.flat",
+        "source": "/Users/tonylee/Tony/Android/Xylophone-Android/app/src/main/res/raw/note1_c.wav"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Xylophone-Android/app/build/intermediates/res/merged/debug/raw_note6_a.wav.flat",
+        "source": "/Users/tonylee/Tony/Android/Xylophone-Android/app/src/main/res/raw/note6_a.wav"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Xylophone-Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Xylophone-Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Xylophone-Android/app/build/intermediates/res/merged/debug/raw_note5_g.wav.flat",
+        "source": "/Users/tonylee/Tony/Android/Xylophone-Android/app/src/main/res/raw/note5_g.wav"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Xylophone-Android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Xylophone-Android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Xylophone-Android/app/build/intermediates/res/merged/debug/raw_note2_d.wav.flat",
+        "source": "/Users/tonylee/Tony/Android/Xylophone-Android/app/src/main/res/raw/note2_d.wav"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Xylophone-Android/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/tonylee/Tony/Android/Xylophone-Android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Xylophone-Android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Xylophone-Android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Xylophone-Android/app/build/intermediates/res/merged/debug/raw_note4_f.wav.flat",
+        "source": "/Users/tonylee/Tony/Android/Xylophone-Android/app/src/main/res/raw/note4_f.wav"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Xylophone-Android/app/build/intermediates/res/merged/debug/raw_note7_b.wav.flat",
+        "source": "/Users/tonylee/Tony/Android/Xylophone-Android/app/src/main/res/raw/note7_b.wav"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Xylophone-Android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Xylophone-Android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Xylophone-Android/app/build/intermediates/res/merged/debug/raw_note3_e.wav.flat",
+        "source": "/Users/tonylee/Tony/Android/Xylophone-Android/app/src/main/res/raw/note3_e.wav"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Xylophone-Android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Xylophone-Android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

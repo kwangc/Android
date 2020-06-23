@@ -1,0 +1,214 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tonylee.flashchatnewfirebase"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:6:5-67
+11-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:6:22-64
+12
+13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+14    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-database:19.3.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a858482f0d85511048b88d680e761880/jetified-firebase-database-19.3.0/AndroidManifest.xml:25:5-79
+15-->[com.google.firebase:firebase-database:19.3.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a858482f0d85511048b88d680e761880/jetified-firebase-database-19.3.0/AndroidManifest.xml:25:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+16-->[com.google.android.gms:play-services-measurement-api:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/7a31a249c23b671f80a71083143f7823/jetified-play-services-measurement-api-17.4.1/AndroidManifest.xml:24:5-68
+16-->[com.google.android.gms:play-services-measurement-api:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/7a31a249c23b671f80a71083143f7823/jetified-play-services-measurement-api-17.4.1/AndroidManifest.xml:24:22-65
+17    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+17-->[com.google.firebase:firebase-iid:20.1.5] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/8183980bc8e77d4fe843a9e6d0f0d6a0/jetified-firebase-iid-20.1.5/AndroidManifest.xml:26:5-82
+17-->[com.google.firebase:firebase-iid:20.1.5] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/8183980bc8e77d4fe843a9e6d0f0d6a0/jetified-firebase-iid-20.1.5/AndroidManifest.xml:26:22-79
+18    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+18-->[com.google.android.gms:play-services-measurement:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/93344a54810d6249d792bcad51b8c857/jetified-play-services-measurement-17.4.1/AndroidManifest.xml:26:5-110
+18-->[com.google.android.gms:play-services-measurement:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/93344a54810d6249d792bcad51b8c857/jetified-play-services-measurement-17.4.1/AndroidManifest.xml:26:22-107
+19
+20    <application
+20-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:8:5-38:19
+21        android:allowBackup="true"
+21-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:9:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.1.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/bcfc0b80df78591183083cc148e1cf2c/core-1.1.0/AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:icon="@mipmap/ic_launcher"
+24-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:10:9-43
+25        android:label="@string/app_name"
+25-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:11:9-41
+26        android:supportsRtl="true"
+26-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:12:9-35
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme" >
+28-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:13:9-40
+29        <activity
+29-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:15:9-25:20
+30            android:name="com.tonylee.flashchatnewfirebase.LoginActivity"
+30-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:16:13-74
+31            android:label="@string/app_name"
+31-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:17:13-45
+32            android:screenOrientation="portrait"
+32-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:18:13-49
+33            android:windowSoftInputMode="stateHidden|adjustPan" >
+33-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:19:13-64
+34            <intent-filter>
+34-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:21:13-24:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:22:17-69
+35-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:22:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:23:17-77
+37-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:23:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:27:9-30:20
+41            android:name="com.tonylee.flashchatnewfirebase.RegisterActivity"
+41-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:28:13-77
+42            android:screenOrientation="portrait" >
+42-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:29:13-49
+43        </activity>
+44        <activity
+44-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:32:9-36:20
+45            android:name="com.tonylee.flashchatnewfirebase.MainChatActivity"
+45-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:33:13-77
+46            android:screenOrientation="portrait"
+46-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:34:13-49
+47            android:windowSoftInputMode="stateHidden|adjustResize" >
+47-->/Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:35:13-67
+48        </activity>
+49
+50        <service
+50-->[com.google.firebase:firebase-database:19.3.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a858482f0d85511048b88d680e761880/jetified-firebase-database-19.3.0/AndroidManifest.xml:29:9-35:19
+51            android:name="com.google.firebase.components.ComponentDiscoveryService"
+51-->[com.google.firebase:firebase-database:19.3.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a858482f0d85511048b88d680e761880/jetified-firebase-database-19.3.0/AndroidManifest.xml:30:13-84
+52            android:directBootAware="true"
+52-->[com.google.firebase:firebase-common:19.3.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/3deb10f8139ef5717b3d54ada2a19ca4/firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+53            android:exported="false" >
+53-->[com.google.firebase:firebase-database:19.3.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a858482f0d85511048b88d680e761880/jetified-firebase-database-19.3.0/AndroidManifest.xml:31:13-37
+54            <meta-data
+54-->[com.google.firebase:firebase-database:19.3.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a858482f0d85511048b88d680e761880/jetified-firebase-database-19.3.0/AndroidManifest.xml:32:13-34:85
+55                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+55-->[com.google.firebase:firebase-database:19.3.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a858482f0d85511048b88d680e761880/jetified-firebase-database-19.3.0/AndroidManifest.xml:33:17-109
+56                android:value="com.google.firebase.components.ComponentRegistrar" />
+56-->[com.google.firebase:firebase-database:19.3.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a858482f0d85511048b88d680e761880/jetified-firebase-database-19.3.0/AndroidManifest.xml:34:17-82
+57            <meta-data
+57-->[com.google.firebase:firebase-auth:19.3.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a965e02da0dc74b3cb82526fa169fefe/jetified-firebase-auth-19.3.1/AndroidManifest.xml:36:13-38:85
+58                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+58-->[com.google.firebase:firebase-auth:19.3.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a965e02da0dc74b3cb82526fa169fefe/jetified-firebase-auth-19.3.1/AndroidManifest.xml:37:17-109
+59                android:value="com.google.firebase.components.ComponentRegistrar" />
+59-->[com.google.firebase:firebase-auth:19.3.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a965e02da0dc74b3cb82526fa169fefe/jetified-firebase-auth-19.3.1/AndroidManifest.xml:38:17-82
+60            <meta-data
+60-->[com.google.android.gms:play-services-measurement-api:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/7a31a249c23b671f80a71083143f7823/jetified-play-services-measurement-api-17.4.1/AndroidManifest.xml:30:13-32:85
+61                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+61-->[com.google.android.gms:play-services-measurement-api:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/7a31a249c23b671f80a71083143f7823/jetified-play-services-measurement-api-17.4.1/AndroidManifest.xml:31:17-139
+62                android:value="com.google.firebase.components.ComponentRegistrar" />
+62-->[com.google.android.gms:play-services-measurement-api:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/7a31a249c23b671f80a71083143f7823/jetified-play-services-measurement-api-17.4.1/AndroidManifest.xml:32:17-82
+63            <meta-data
+63-->[com.google.firebase:firebase-iid:20.1.5] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/8183980bc8e77d4fe843a9e6d0f0d6a0/jetified-firebase-iid-20.1.5/AndroidManifest.xml:32:13-34:85
+64                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+64-->[com.google.firebase:firebase-iid:20.1.5] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/8183980bc8e77d4fe843a9e6d0f0d6a0/jetified-firebase-iid-20.1.5/AndroidManifest.xml:33:17-96
+65                android:value="com.google.firebase.components.ComponentRegistrar" />
+65-->[com.google.firebase:firebase-iid:20.1.5] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/8183980bc8e77d4fe843a9e6d0f0d6a0/jetified-firebase-iid-20.1.5/AndroidManifest.xml:34:17-82
+66            <meta-data
+66-->[com.google.firebase:firebase-installations:16.2.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/80b5e92b70a89d4f419c7604b16b139f/jetified-firebase-installations-16.2.1/AndroidManifest.xml:17:13-19:85
+67                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+67-->[com.google.firebase:firebase-installations:16.2.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/80b5e92b70a89d4f419c7604b16b139f/jetified-firebase-installations-16.2.1/AndroidManifest.xml:18:17-127
+68                android:value="com.google.firebase.components.ComponentRegistrar" />
+68-->[com.google.firebase:firebase-installations:16.2.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/80b5e92b70a89d4f419c7604b16b139f/jetified-firebase-installations-16.2.1/AndroidManifest.xml:19:17-82
+69        </service>
+70
+71        <activity
+71-->[com.google.firebase:firebase-auth:19.3.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a965e02da0dc74b3cb82526fa169fefe/jetified-firebase-auth-19.3.1/AndroidManifest.xml:24:9-31:50
+72            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+72-->[com.google.firebase:firebase-auth:19.3.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a965e02da0dc74b3cb82526fa169fefe/jetified-firebase-auth-19.3.1/AndroidManifest.xml:25:13-85
+73            android:excludeFromRecents="true"
+73-->[com.google.firebase:firebase-auth:19.3.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a965e02da0dc74b3cb82526fa169fefe/jetified-firebase-auth-19.3.1/AndroidManifest.xml:26:13-46
+74            android:exported="true"
+74-->[com.google.firebase:firebase-auth:19.3.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a965e02da0dc74b3cb82526fa169fefe/jetified-firebase-auth-19.3.1/AndroidManifest.xml:27:13-36
+75            android:launchMode="singleTask"
+75-->[com.google.firebase:firebase-auth:19.3.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a965e02da0dc74b3cb82526fa169fefe/jetified-firebase-auth-19.3.1/AndroidManifest.xml:28:13-44
+76            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+76-->[com.google.firebase:firebase-auth:19.3.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a965e02da0dc74b3cb82526fa169fefe/jetified-firebase-auth-19.3.1/AndroidManifest.xml:29:13-102
+77            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+77-->[com.google.firebase:firebase-auth:19.3.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/a965e02da0dc74b3cb82526fa169fefe/jetified-firebase-auth-19.3.1/AndroidManifest.xml:30:13-72
+78
+79        <receiver
+79-->[com.google.firebase:firebase-iid:20.1.5] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/8183980bc8e77d4fe843a9e6d0f0d6a0/jetified-firebase-iid-20.1.5/AndroidManifest.xml:37:9-44:20
+80            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+80-->[com.google.firebase:firebase-iid:20.1.5] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/8183980bc8e77d4fe843a9e6d0f0d6a0/jetified-firebase-iid-20.1.5/AndroidManifest.xml:38:13-78
+81            android:exported="true"
+81-->[com.google.firebase:firebase-iid:20.1.5] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/8183980bc8e77d4fe843a9e6d0f0d6a0/jetified-firebase-iid-20.1.5/AndroidManifest.xml:39:13-36
+82            android:permission="com.google.android.c2dm.permission.SEND" >
+82-->[com.google.firebase:firebase-iid:20.1.5] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/8183980bc8e77d4fe843a9e6d0f0d6a0/jetified-firebase-iid-20.1.5/AndroidManifest.xml:40:13-73
+83            <intent-filter>
+83-->[com.google.firebase:firebase-iid:20.1.5] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/8183980bc8e77d4fe843a9e6d0f0d6a0/jetified-firebase-iid-20.1.5/AndroidManifest.xml:41:13-43:29
+84                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+84-->[com.google.firebase:firebase-iid:20.1.5] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/8183980bc8e77d4fe843a9e6d0f0d6a0/jetified-firebase-iid-20.1.5/AndroidManifest.xml:42:17-81
+84-->[com.google.firebase:firebase-iid:20.1.5] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/8183980bc8e77d4fe843a9e6d0f0d6a0/jetified-firebase-iid-20.1.5/AndroidManifest.xml:42:25-78
+85            </intent-filter>
+86        </receiver>
+87
+88        <provider
+88-->[com.google.firebase:firebase-common:19.3.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/3deb10f8139ef5717b3d54ada2a19ca4/firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+89            android:name="com.google.firebase.provider.FirebaseInitProvider"
+89-->[com.google.firebase:firebase-common:19.3.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/3deb10f8139ef5717b3d54ada2a19ca4/firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+90            android:authorities="com.tonylee.flashchatnewfirebase.firebaseinitprovider"
+90-->[com.google.firebase:firebase-common:19.3.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/3deb10f8139ef5717b3d54ada2a19ca4/firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+91            android:exported="false"
+91-->[com.google.firebase:firebase-common:19.3.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/3deb10f8139ef5717b3d54ada2a19ca4/firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+92            android:initOrder="100" />
+92-->[com.google.firebase:firebase-common:19.3.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/3deb10f8139ef5717b3d54ada2a19ca4/firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+93
+94        <activity
+94-->[com.google.android.gms:play-services-base:17.1.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/75e7c473eccef2b3a0eec97fa3a7825b/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+95            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+95-->[com.google.android.gms:play-services-base:17.1.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/75e7c473eccef2b3a0eec97fa3a7825b/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+96            android:exported="false"
+96-->[com.google.android.gms:play-services-base:17.1.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/75e7c473eccef2b3a0eec97fa3a7825b/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+97            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+97-->[com.google.android.gms:play-services-base:17.1.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/75e7c473eccef2b3a0eec97fa3a7825b/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+98
+99        <receiver
+99-->[com.google.android.gms:play-services-measurement:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/93344a54810d6249d792bcad51b8c857/jetified-play-services-measurement-17.4.1/AndroidManifest.xml:29:9-33:20
+100            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+100-->[com.google.android.gms:play-services-measurement:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/93344a54810d6249d792bcad51b8c857/jetified-play-services-measurement-17.4.1/AndroidManifest.xml:30:13-85
+101            android:enabled="true"
+101-->[com.google.android.gms:play-services-measurement:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/93344a54810d6249d792bcad51b8c857/jetified-play-services-measurement-17.4.1/AndroidManifest.xml:31:13-35
+102            android:exported="false" >
+102-->[com.google.android.gms:play-services-measurement:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/93344a54810d6249d792bcad51b8c857/jetified-play-services-measurement-17.4.1/AndroidManifest.xml:32:13-37
+103        </receiver>
+104
+105        <service
+105-->[com.google.android.gms:play-services-measurement:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/93344a54810d6249d792bcad51b8c857/jetified-play-services-measurement-17.4.1/AndroidManifest.xml:35:9-38:40
+106            android:name="com.google.android.gms.measurement.AppMeasurementService"
+106-->[com.google.android.gms:play-services-measurement:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/93344a54810d6249d792bcad51b8c857/jetified-play-services-measurement-17.4.1/AndroidManifest.xml:36:13-84
+107            android:enabled="true"
+107-->[com.google.android.gms:play-services-measurement:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/93344a54810d6249d792bcad51b8c857/jetified-play-services-measurement-17.4.1/AndroidManifest.xml:37:13-35
+108            android:exported="false" />
+108-->[com.google.android.gms:play-services-measurement:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/93344a54810d6249d792bcad51b8c857/jetified-play-services-measurement-17.4.1/AndroidManifest.xml:38:13-37
+109        <service
+109-->[com.google.android.gms:play-services-measurement:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/93344a54810d6249d792bcad51b8c857/jetified-play-services-measurement-17.4.1/AndroidManifest.xml:39:9-43:72
+110            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+110-->[com.google.android.gms:play-services-measurement:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/93344a54810d6249d792bcad51b8c857/jetified-play-services-measurement-17.4.1/AndroidManifest.xml:40:13-87
+111            android:enabled="true"
+111-->[com.google.android.gms:play-services-measurement:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/93344a54810d6249d792bcad51b8c857/jetified-play-services-measurement-17.4.1/AndroidManifest.xml:41:13-35
+112            android:exported="false"
+112-->[com.google.android.gms:play-services-measurement:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/93344a54810d6249d792bcad51b8c857/jetified-play-services-measurement-17.4.1/AndroidManifest.xml:42:13-37
+113            android:permission="android.permission.BIND_JOB_SERVICE" />
+113-->[com.google.android.gms:play-services-measurement:17.4.1] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/93344a54810d6249d792bcad51b8c857/jetified-play-services-measurement-17.4.1/AndroidManifest.xml:43:13-69
+114
+115        <meta-data
+115-->[com.google.android.gms:play-services-basement:17.0.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/164bb505b81f338baa0db13edd04c1d1/play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+116            android:name="com.google.android.gms.version"
+116-->[com.google.android.gms:play-services-basement:17.0.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/164bb505b81f338baa0db13edd04c1d1/play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+117            android:value="@integer/google_play_services_version" />
+117-->[com.google.android.gms:play-services-basement:17.0.0] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/164bb505b81f338baa0db13edd04c1d1/play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+118    </application>
+119
+120</manifest>

@@ -1,0 +1,4 @@
+#Mon Apr 13 22:46:24 KST 2020
+base.0=/Users/tonylee/Tony/Android/Dicee/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

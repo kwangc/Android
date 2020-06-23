@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="destini-android-kwangc/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/destini-android-kwangc.iml" filepath="$PROJECT_DIR$/.idea/destini-android-kwangc.iml" group="destini-android-kwangc" />
+    </modules>
+  </component>
+</project>

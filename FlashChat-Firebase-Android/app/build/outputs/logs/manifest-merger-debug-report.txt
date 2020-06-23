@@ -1,0 +1,389 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-core-9.0.0.aar/c15634245dcc5aaef7b6b30d7062c70c/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:design:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ce3a13cbbdada8c5400e458bdf78cd54/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/07ce8c3452ca6241b411d60ffcefb883/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-database:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-database-9.0.0.aar/8deba1278188ada017c18945d804279b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-auth:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.0.0.aar/329379b7f63f52d8792b4e989aabed72/AndroidManifest.xml:16:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:16:1-42:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f9aa583ec4db999fb7f14c6290d31c8b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/79ef3000edee6fec656df6ec0dc69c8d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/5b04c32931f25ce9c6b51ce119ae5931/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/afa1f3730228d2468d63d9b0d9631256/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-database-connection:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-9.0.0.aar/5a4b29c32149981bceaf6b7ae015901a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-auth-common:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.0.0.aar/4c85b05115d052faed473d6da98cf025/AndroidManifest.xml:16:1-22:12
+MERGED from [com.google.firebase:firebase-auth-module:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-auth-module-9.0.0.aar/73fb909feb330a3aa26bc8ab7fad995d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/89fc014e7cdf13c7d7025edab0c08286/AndroidManifest.xml:16:1-42:12
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/e7a153763aff27dcdd26f6fadd511d78/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:16:1-60:12
+MERGED from [com.google.firebase:firebase-common:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/8eb800ed5ca870a7918a3a2d28ae0e59/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.0.0.aar/2e207a8d82f17e5de425f6c6a35edd76/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.0.0.aar/4a56e81210215ccc8343bdb6a00a687e/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b5a197c098d1de2171a5f7d0767d5612/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/35e488ddd4bf69901e4c4fc0f64088dc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4782d7f0e0d8fff787e19edcaa2c9a4a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/81695be9809e29bf13e4441b7e366b4b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7e5d8ca2b194aaeedf7fc073b99a7971/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/df8006c6e3a388ccd91bf1b065818174/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d99c85f468b86d2124d5030e53ba8329/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:4:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/89fc014e7cdf13c7d7025edab0c08286/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/89fc014e7cdf13c7d7025edab0c08286/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:8:5-38:19
+MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-core-9.0.0.aar/c15634245dcc5aaef7b6b30d7062c70c/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-core-9.0.0.aar/c15634245dcc5aaef7b6b30d7062c70c/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:design:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ce3a13cbbdada8c5400e458bdf78cd54/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ce3a13cbbdada8c5400e458bdf78cd54/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/07ce8c3452ca6241b411d60ffcefb883/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/07ce8c3452ca6241b411d60ffcefb883/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.firebase:firebase-auth:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.0.0.aar/329379b7f63f52d8792b4e989aabed72/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.0.0.aar/329379b7f63f52d8792b4e989aabed72/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:26:5-41:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f9aa583ec4db999fb7f14c6290d31c8b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f9aa583ec4db999fb7f14c6290d31c8b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/79ef3000edee6fec656df6ec0dc69c8d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/79ef3000edee6fec656df6ec0dc69c8d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/5b04c32931f25ce9c6b51ce119ae5931/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/5b04c32931f25ce9c6b51ce119ae5931/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/afa1f3730228d2468d63d9b0d9631256/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/afa1f3730228d2468d63d9b0d9631256/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-auth-common:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.0.0.aar/4c85b05115d052faed473d6da98cf025/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-auth-common:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.0.0.aar/4c85b05115d052faed473d6da98cf025/AndroidManifest.xml:20:5-21:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/89fc014e7cdf13c7d7025edab0c08286/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/89fc014e7cdf13c7d7025edab0c08286/AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/e7a153763aff27dcdd26f6fadd511d78/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/e7a153763aff27dcdd26f6fadd511d78/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/8eb800ed5ca870a7918a3a2d28ae0e59/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/8eb800ed5ca870a7918a3a2d28ae0e59/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.0.0.aar/2e207a8d82f17e5de425f6c6a35edd76/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.0.0.aar/2e207a8d82f17e5de425f6c6a35edd76/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.0.0.aar/4a56e81210215ccc8343bdb6a00a687e/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.0.0.aar/4a56e81210215ccc8343bdb6a00a687e/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b5a197c098d1de2171a5f7d0767d5612/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b5a197c098d1de2171a5f7d0767d5612/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/35e488ddd4bf69901e4c4fc0f64088dc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/35e488ddd4bf69901e4c4fc0f64088dc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4782d7f0e0d8fff787e19edcaa2c9a4a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4782d7f0e0d8fff787e19edcaa2c9a4a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/81695be9809e29bf13e4441b7e366b4b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/81695be9809e29bf13e4441b7e366b4b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7e5d8ca2b194aaeedf7fc073b99a7971/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7e5d8ca2b194aaeedf7fc073b99a7971/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/df8006c6e3a388ccd91bf1b065818174/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/df8006c6e3a388ccd91bf1b065818174/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d99c85f468b86d2124d5030e53ba8329/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d99c85f468b86d2124d5030e53ba8329/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.tonylee.flashchatnewfirebase.LoginActivity
+ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:15:9-25:20
+	android:screenOrientation
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:17:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:19:13-64
+	android:name
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:16:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.tonylee.flashchatnewfirebase.RegisterActivity
+ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:27:9-30:20
+	android:screenOrientation
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:28:13-77
+activity#com.tonylee.flashchatnewfirebase.MainChatActivity
+ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:32:9-36:20
+	android:screenOrientation
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:34:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:35:13-67
+	android:name
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml:33:13-77
+uses-sdk
+INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-core-9.0.0.aar/c15634245dcc5aaef7b6b30d7062c70c/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-core-9.0.0.aar/c15634245dcc5aaef7b6b30d7062c70c/AndroidManifest.xml:4:5-42
+MERGED from [com.android.support:design:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ce3a13cbbdada8c5400e458bdf78cd54/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ce3a13cbbdada8c5400e458bdf78cd54/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/07ce8c3452ca6241b411d60ffcefb883/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/07ce8c3452ca6241b411d60ffcefb883/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.firebase:firebase-database:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-database-9.0.0.aar/8deba1278188ada017c18945d804279b/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-database-9.0.0.aar/8deba1278188ada017c18945d804279b/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-auth:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.0.0.aar/329379b7f63f52d8792b4e989aabed72/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-auth-9.0.0.aar/329379b7f63f52d8792b4e989aabed72/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f9aa583ec4db999fb7f14c6290d31c8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f9aa583ec4db999fb7f14c6290d31c8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/79ef3000edee6fec656df6ec0dc69c8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/79ef3000edee6fec656df6ec0dc69c8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/5b04c32931f25ce9c6b51ce119ae5931/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/5b04c32931f25ce9c6b51ce119ae5931/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/afa1f3730228d2468d63d9b0d9631256/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/afa1f3730228d2468d63d9b0d9631256/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-9.0.0.aar/5a4b29c32149981bceaf6b7ae015901a/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-connection:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-9.0.0.aar/5a4b29c32149981bceaf6b7ae015901a/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.0.0.aar/4c85b05115d052faed473d6da98cf025/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-common:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-auth-common-9.0.0.aar/4c85b05115d052faed473d6da98cf025/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-auth-module-9.0.0.aar/73fb909feb330a3aa26bc8ab7fad995d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-module:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-auth-module-9.0.0.aar/73fb909feb330a3aa26bc8ab7fad995d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/89fc014e7cdf13c7d7025edab0c08286/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/89fc014e7cdf13c7d7025edab0c08286/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/e7a153763aff27dcdd26f6fadd511d78/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/e7a153763aff27dcdd26f6fadd511d78/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/8eb800ed5ca870a7918a3a2d28ae0e59/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/8eb800ed5ca870a7918a3a2d28ae0e59/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.0.0.aar/2e207a8d82f17e5de425f6c6a35edd76/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.0.0.aar/2e207a8d82f17e5de425f6c6a35edd76/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.0.0.aar/4a56e81210215ccc8343bdb6a00a687e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.0.0.aar/4a56e81210215ccc8343bdb6a00a687e/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b5a197c098d1de2171a5f7d0767d5612/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b5a197c098d1de2171a5f7d0767d5612/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/35e488ddd4bf69901e4c4fc0f64088dc/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/35e488ddd4bf69901e4c4fc0f64088dc/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4782d7f0e0d8fff787e19edcaa2c9a4a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4782d7f0e0d8fff787e19edcaa2c9a4a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/81695be9809e29bf13e4441b7e366b4b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/81695be9809e29bf13e4441b7e366b4b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7e5d8ca2b194aaeedf7fc073b99a7971/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7e5d8ca2b194aaeedf7fc073b99a7971/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/df8006c6e3a388ccd91bf1b065818174/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/df8006c6e3a388ccd91bf1b065818174/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d99c85f468b86d2124d5030e53ba8329/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d99c85f468b86d2124d5030e53ba8329/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ce3a13cbbdada8c5400e458bdf78cd54/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tonylee/Tony/Android/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ce3a13cbbdada8c5400e458bdf78cd54/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/07ce8c3452ca6241b411d60ffcefb883/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/07ce8c3452ca6241b411d60ffcefb883/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f9aa583ec4db999fb7f14c6290d31c8b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/f9aa583ec4db999fb7f14c6290d31c8b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/79ef3000edee6fec656df6ec0dc69c8d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/79ef3000edee6fec656df6ec0dc69c8d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/5b04c32931f25ce9c6b51ce119ae5931/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/5b04c32931f25ce9c6b51ce119ae5931/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/afa1f3730228d2468d63d9b0d9631256/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/afa1f3730228d2468d63d9b0d9631256/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b5a197c098d1de2171a5f7d0767d5612/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b5a197c098d1de2171a5f7d0767d5612/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/35e488ddd4bf69901e4c4fc0f64088dc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/35e488ddd4bf69901e4c4fc0f64088dc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4782d7f0e0d8fff787e19edcaa2c9a4a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4782d7f0e0d8fff787e19edcaa2c9a4a/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/81695be9809e29bf13e4441b7e366b4b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/81695be9809e29bf13e4441b7e366b4b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7e5d8ca2b194aaeedf7fc073b99a7971/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/7e5d8ca2b194aaeedf7fc073b99a7971/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/df8006c6e3a388ccd91bf1b065818174/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/df8006c6e3a388ccd91bf1b065818174/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ce3a13cbbdada8c5400e458bdf78cd54/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ce3a13cbbdada8c5400e458bdf78cd54/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/89fc014e7cdf13c7d7025edab0c08286/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/89fc014e7cdf13c7d7025edab0c08286/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/89fc014e7cdf13c7d7025edab0c08286/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/89fc014e7cdf13c7d7025edab0c08286/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:22:5-68
+MERGED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/89fc014e7cdf13c7d7025edab0c08286/AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/89fc014e7cdf13c7d7025edab0c08286/AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:29:11-83
+intent-filter#action:name:com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/89fc014e7cdf13c7d7025edab0c08286/AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-9.0.0.aar/89fc014e7cdf13c7d7025edab0c08286/AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-analytics-9.0.0.aar/ea944c435508db95431c5087dac4afbc/AndroidManifest.xml:37:11-82
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/e7a153763aff27dcdd26f6fadd511d78/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/e7a153763aff27dcdd26f6fadd511d78/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/e7a153763aff27dcdd26f6fadd511d78/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-base-9.0.0.aar/e7a153763aff27dcdd26f6fadd511d78/AndroidManifest.xml:20:19-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:25:17-71
+permission#com.tonylee.flashchatnewfirebase.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:28:22-76
+uses-permission#com.tonylee.flashchatnewfirebase.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:33:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:36:13-40:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:com.tonylee.flashchatnewfirebase
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:39:27-58
+category#com.tonylee.flashchatnewfirebase
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:52:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.0.0.aar/c8d441c91f41015bab31a9ce877bd2ac/AndroidManifest.xml:55:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/8eb800ed5ca870a7918a3a2d28ae0e59/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/8eb800ed5ca870a7918a3a2d28ae0e59/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/8eb800ed5ca870a7918a3a2d28ae0e59/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/8eb800ed5ca870a7918a3a2d28ae0e59/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/firebase-common-9.0.0.aar/8eb800ed5ca870a7918a3a2d28ae0e59/AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.0.0.aar/4a56e81210215ccc8343bdb6a00a687e/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.0.0.aar/4a56e81210215ccc8343bdb6a00a687e/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.0.0.aar/4a56e81210215ccc8343bdb6a00a687e/AndroidManifest.xml:22:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d99c85f468b86d2124d5030e53ba8329/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d99c85f468b86d2124d5030e53ba8329/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/tonylee/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d99c85f468b86d2124d5030e53ba8329/AndroidManifest.xml:26:13-58

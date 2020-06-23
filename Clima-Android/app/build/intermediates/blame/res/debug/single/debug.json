@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable_change_city_symbol_small.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable/change_city_symbol_small.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable_tstorm3.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable/tstorm3.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable-nodpi_weather_background.jpg.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable-nodpi/weather_background.jpg"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable_change_city_symbol.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable/change_city_symbol.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable_dunno.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable/dunno.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable_shower3.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable/shower3.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable_tstorm1.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable/tstorm1.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable_left.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable/left.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable_sunny.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable/sunny.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable_cloud_refresh.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable/cloud_refresh.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable_overcast.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable/overcast.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable_snow5.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable/snow5.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable-nodpi_city_background.jpeg.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable-nodpi/city_background.jpeg"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable_light_rain.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable/light_rain.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/layout_change_city_layout.xml.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/layout/change_city_layout.xml"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable_cloudy2.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable/cloudy2.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable_snow4.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable/snow4.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/layout_weather_controller_layout.xml.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/layout/weather_controller_layout.xml"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tonylee/Tony/Android/Clima-Android/app/build/intermediates/res/merged/debug/drawable_fog.png.flat",
+        "source": "/Users/tonylee/Tony/Android/Clima-Android/app/src/main/res/drawable/fog.png"
+    }
+]

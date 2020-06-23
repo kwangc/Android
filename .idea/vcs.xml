@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Clima-Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FlashChat-Firebase-Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Quizzler-Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Xylophone-Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bitcoin-ticker-android-kwangc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/destini-android-kwangc" vcs="Git" />
+  </component>
+</project>

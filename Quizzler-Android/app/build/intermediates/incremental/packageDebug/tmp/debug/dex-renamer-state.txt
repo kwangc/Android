@@ -1,0 +1,4 @@
+#Thu Apr 09 01:31:34 KST 2020
+base.0=/Users/tonylee/Tony/Android/Quizzler-Android/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

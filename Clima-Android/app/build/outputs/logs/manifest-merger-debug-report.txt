@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/ddf840b9f4188ec39e7b984ec34761aa/appcompat-v7-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/3861ca69ae4e88a3dcea57b5918962b2/support-fragment-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/bfeb60eca7c4f14f67ff28d3de252327/support-core-utils-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/920eea4d4b3407526fa80f4c64893383/animated-vector-drawable-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/f01985b8288b5e36d1bcfdfd797b805a/support-vector-drawable-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/8fa15df48499fcadf25e4a5d37ae5a58/support-core-ui-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/c843eeefe88f5a12ad1c49d5aaa4e4f7/support-compat-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/da3ba0a33d4353a332402cd549cb38b6/runtime-1.0.3/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:8:5-24:19
+	android:supportsRtl
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.londonappbrewery.climapm.ChangeCityController
+ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:14:9-67
+	android:name
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:14:19-55
+activity#com.londonappbrewery.climapm.WeatherController
+ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:screenOrientation
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:16:13-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/ddf840b9f4188ec39e7b984ec34761aa/appcompat-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/ddf840b9f4188ec39e7b984ec34761aa/appcompat-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/3861ca69ae4e88a3dcea57b5918962b2/support-fragment-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/3861ca69ae4e88a3dcea57b5918962b2/support-fragment-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/bfeb60eca7c4f14f67ff28d3de252327/support-core-utils-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/bfeb60eca7c4f14f67ff28d3de252327/support-core-utils-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/920eea4d4b3407526fa80f4c64893383/animated-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/920eea4d4b3407526fa80f4c64893383/animated-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/f01985b8288b5e36d1bcfdfd797b805a/support-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/f01985b8288b5e36d1bcfdfd797b805a/support-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/8fa15df48499fcadf25e4a5d37ae5a58/support-core-ui-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/8fa15df48499fcadf25e4a5d37ae5a58/support-core-ui-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/c843eeefe88f5a12ad1c49d5aaa4e4f7/support-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/c843eeefe88f5a12ad1c49d5aaa4e4f7/support-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/da3ba0a33d4353a332402cd549cb38b6/runtime-1.0.3/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/tonylee/.gradle/caches/transforms-2/files-2.1/da3ba0a33d4353a332402cd549cb38b6/runtime-1.0.3/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tonylee/Tony/Android/Clima-Android/app/src/main/AndroidManifest.xml

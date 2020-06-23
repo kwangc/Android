@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="button_text">굴려</string>
+    <string name="description_button">주사위를 굴리세요</string>
+</resources>

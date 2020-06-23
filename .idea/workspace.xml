@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50f4ebf3-aa79-4334-8129-c306c246d8bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Clima-Android/app/src/main/java/com/londonappbrewery/climapm/ChangeCityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/src/main/java/com/tonylee/flashchatnewfirebase/ChatListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/src/main/java/com/tonylee/flashchatnewfirebase/InstantMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quizzler-Android/app/src/main/java/com/londonappbrewery/quizzler/TrueFalse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-Android/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Clima-Android/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-Android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Clima-Android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-Android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Clima-Android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-Android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Clima-Android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-Android/app/src/main/java/com/londonappbrewery/climapm/WeatherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clima-Android/app/src/main/java/com/londonappbrewery/climapm/WeatherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-Android/app/src/main/java/com/londonappbrewery/climapm/WeatherDataModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clima-Android/app/src/main/java/com/londonappbrewery/climapm/WeatherDataModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-Android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Clima-Android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clima-Android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Clima-Android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/androidTest/java/net/lineable/dicee/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/ic_launcher-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/java/net/lineable/dicee/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable-hdpi/dice1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable-hdpi/dice2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable-hdpi/dice3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable-hdpi/dice4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable-hdpi/dice5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable-hdpi/dice6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable-hdpi/dicee_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable-nodpi/newbackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable-xhdpi/dice1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable-xhdpi/dice2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable-xhdpi/dice3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable-xhdpi/dice4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable-xhdpi/dice5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable-xhdpi/dice6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable-xhdpi/dicee_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/layout-land/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/values-ko-rKR/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/app/src/test/java/net/lineable/dicee/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dicee/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlashChat-Firebase-Android/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FlashChat-Firebase-Android/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlashChat-Firebase-Android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FlashChat-Firebase-Android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/src/main/java/com/londonappbrewery/flashchatnewfirebase/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/src/main/java/com/tonylee/flashchatnewfirebase/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/src/main/java/com/londonappbrewery/flashchatnewfirebase/MainChatActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/src/main/java/com/tonylee/flashchatnewfirebase/MainChatActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/src/main/java/com/londonappbrewery/flashchatnewfirebase/RegisterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/src/main/java/com/tonylee/flashchatnewfirebase/RegisterActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/src/main/res/layout/activity_main_chat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/src/main/res/layout/activity_main_chat.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/src/main/res/layout/activity_register.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FlashChat-Firebase-Android/app/src/main/res/layout/activity_register.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlashChat-Firebase-Android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/FlashChat-Firebase-Android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quizzler-Android/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Quizzler-Android/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quizzler-Android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Quizzler-Android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quizzler-Android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Quizzler-Android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quizzler-Android/app/src/main/java/com/londonappbrewery/quizzler/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Quizzler-Android/app/src/main/java/com/londonappbrewery/quizzler/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quizzler-Android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Quizzler-Android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quizzler-Android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Quizzler-Android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xylophone-Android/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Xylophone-Android/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xylophone-Android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Xylophone-Android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xylophone-Android/app/src/main/java/com/londonappbrewery/xylophonepm/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Xylophone-Android/app/src/main/java/com/londonappbrewery/xylophonepm/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xylophone-Android/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Xylophone-Android/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xylophone-Android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Xylophone-Android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xylophone-Android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Xylophone-Android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/destini-android-kwangc/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/destini-android-kwangc/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/destini-android-kwangc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/destini-android-kwangc/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/destini-android-kwangc/app/src/main/java/com/londonappbrewery/destini/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/destini-android-kwangc/app/src/main/java/com/londonappbrewery/destini/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/destini-android-kwangc/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/destini-android-kwangc/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/destini-android-kwangc/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/destini-android-kwangc/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dfLCAFP2jXzVpF8qoXJTZDcj60" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50f4ebf3-aa79-4334-8129-c306c246d8bc" name="Default Changelist" comment="" />
+      <created>1592811070373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592811070373</updated>
+    </task>
+    <servers />
+  </component>
+</project>

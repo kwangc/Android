@@ -12,14 +12,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c13f7c3e-a533-4386-8ff4-6c86d68de569" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clima-Android/app/src/main/res/values-ko-rKR/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FlashChat-Firebase-Android/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dicee/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Dicee/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dicee/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Dicee/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clima-Android/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Clima-Android/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clima-Android/.idea/Clima-Android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clima-Android/.idea/Clima-Android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clima-Android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../Clima-Android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clima-Android/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clima-Android/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clima-Android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clima-Android/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clima-Android/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clima-Android/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlashChat-Firebase-Android/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../FlashChat-Firebase-Android/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlashChat-Firebase-Android/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../FlashChat-Firebase-Android/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlashChat-Firebase-Android/.idea/FlashChat-Firebase-Android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlashChat-Firebase-Android/.idea/FlashChat-Firebase-Android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlashChat-Firebase-Android/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../FlashChat-Firebase-Android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlashChat-Firebase-Android/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlashChat-Firebase-Android/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlashChat-Firebase-Android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlashChat-Firebase-Android/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlashChat-Firebase-Android/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlashChat-Firebase-Android/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FlashChat-Firebase-Android/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlashChat-Firebase-Android/app/src/main/res/layout/activity_login.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,26 +66,23 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1btA1laEvq7m0U8fMIdRxLDSPRb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="show.migrate.to.gradle.popup" value="false" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">

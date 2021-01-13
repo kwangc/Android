@@ -12,17 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f403756-4cae-4c2e-be06-66a3f1f402b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/londonappbrewery/climapm/ChangeCityController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/londonappbrewery/climapm/WeatherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/londonappbrewery/climapm/WeatherController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/londonappbrewery/climapm/WeatherDataModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/londonappbrewery/climapm/WeatherDataModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-ko-rKR/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Clima-Android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Clima-Android.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,10 +43,23 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1aW0RuXUgwnlfeD0nnM03Dxwrio" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_6_API_28" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-04-16T14:26:13.315Z" />
@@ -68,18 +78,6 @@
     <key name="android.template.packageName">
       <recent name="com.londonappbrewery.climapm" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -166,6 +164,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="-862" key="#Notifications" timestamp="1595492294164">
+      <screen x="-246" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="274" y="-862" key="#Notifications/0.23.1440.877/-246.-1057.1920.1057@-246.-1057.1920.1057" timestamp="1595492294164" />
+    <state x="390" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1595491949920">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="390" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-246.-1057.1920.1057@0.23.1440.877" timestamp="1595491949920" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
